@@ -1,9 +1,4 @@
-# provider "aws" {
-#     region = "us-east-2"
-  
-# }
-
-
+#Add provider here
 terraform {
   backend "s3" {
       bucket            = "terraform-up-and-running-state-pavelstaravoitau1"
