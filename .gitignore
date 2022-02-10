@@ -1,0 +1,9 @@
+services/webserver-cluster/.terraform/
+service/webservers-cluster/*.tfstate
+services/webserver-cluster/.terraform/providers/registry.terraform.io/hashicorp/aws/3.74.0/linux_amd64/terraform-provider-aws_v3.74.0_x
+5
+services/webserver-cluster/terraform.tfstate
+services/webserver-cluster/terraform.tfstate.backup
+service/webservers-cluster/*.tfstate.bak
+services/webserver-cluster/.terraform.lock.hcl
+services/webserver-cluster/simpeweb
